@@ -32,6 +32,8 @@ This application records and charts comparisons in growth between children born 
 
 ## Technology
 
-1.  The front-end will be built using HTML, Materialize, C#, Chart.js and Google Maps.
+1.  The front-end will be built using HTML, Materialize, React.js Chart.js and Google Maps.
 
-2.  The back-end will be built using Knex, PostgreSQL, Node.js, and Express.
+2.  The back-end will be built using Knex, PostgreSQL, Node.js, C# and Express.
+
+* Note: if C# turns out to be problematic in the timeframe allotted, I may use Angular as a front-end framework to supplement my integration of an unfamiliar technology.
